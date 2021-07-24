@@ -1,0 +1,12 @@
+x=int("input()")
+if x>85:
+print('grade: Distinction')
+elif x>60:
+print('grade:first class')
+elif x>50:
+print('grade:second class')
+else:print('grade:fail')
+
+input x=100
+output Grade= Distinction
+
